@@ -1,0 +1,14 @@
+{% extends "stocklist/base.html" %}
+
+{% block body %}
+    {% if all_stocklists %}
+        <h3>All stocklists are listed here:</h3>
+        <ul>
+            {% for stocklist in all_stocklists %}
+            <li><a href="{% url 'stocklist:detail' stocklist.id %}">{{ stocklist.list_title }}</a></li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <h3>There are not stocklists to display</h3>
+    {% endif %}
+{% endblock %}

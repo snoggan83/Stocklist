@@ -1,0 +1,25 @@
+{% extends "stocklist/base.html" %}
+{% block title %}Stock Details{% endblock %}
+
+{% block body %}
+    <h1>{{ stocklist.list_title }}</h1>
+
+    {% if error_message %}
+        <p><strong>{{ error_message }}</strong></p>
+    {% endif %}
+
+    <form action="{% url 'stocklist:portfolio' stocklist.id %}" method="post">
+        {% csrf_token %}
+        {% for stock in stocklist.stock_set.all %}
+            <input type="radio" id="stock{{ forloop.counter }}" name="stock" value="{{ stock.id }}" />
+            <label for="stock{{ forloop.counter }}">
+                {{ stock.stock_title }}
+                {% if stock.in_portfolio %}
+                    <img src="http://i.imgur.com/b9b13Rd.png" />
+                {% endif %}
+            </label><br>
+        {% endfor %}
+        <input type="submit" value="portfolio">
+    </form>
+{% endblock %}
+
