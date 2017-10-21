@@ -1,0 +1,1091 @@
+[{
+	"model": "stocklist.stock",
+	"pk": 94,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Active Biotech",
+		"stocktag_str": "ACTI.ST",
+		"stocktag_num": 432115,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 95,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Addtech B",
+		"stocktag_str": "ADDT-B.ST",
+		"stocktag_num": 292912,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 96,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Alimak Group",
+		"stocktag_str": "ALIG.ST",
+		"stocktag_num": 27183617,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 97,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Arcam",
+		"stocktag_str": "ARCM.ST",
+		"stocktag_num": 10409669,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 98,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Avanza Bank Holding",
+		"stocktag_str": "AZA.ST",
+		"stocktag_num": 298618,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 99,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "B&B TOOLS B",
+		"stocktag_str": "BBTO-B.ST",
+		"stocktag_num": 622577,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 100,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Bactiguard Holding",
+		"stocktag_str": "BACTI-B.ST",
+		"stocktag_num": 21182778,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 101,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Beijer Alma B",
+		"stocktag_str": "BEIA-B.ST",
+		"stocktag_num": 69183,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 102,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Beijer Ref B",
+		"stocktag_str": "BEIJ-B.ST",
+		"stocktag_num": 69234,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 103,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Bilia A",
+		"stocktag_str": "BILI-A.ST",
+		"stocktag_num": 69225,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 104,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "BioGaia B",
+		"stocktag_str": "BIOG-B.ST",
+		"stocktag_num": 69015,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 105,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "BlackPearl Resources SDB",
+		"stocktag_str": "PXXS-SDB.ST",
+		"stocktag_num": 2084628,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 106,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Bufab Holding",
+		"stocktag_str": "BUFAB.ST",
+		"stocktag_num": 19218844,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 107,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Bure Equity",
+		"stocktag_str": "BURE.ST",
+		"stocktag_num": 69207,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 108,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Byggmax Group",
+		"stocktag_str": "BMAX.ST",
+		"stocktag_num": 2334993,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 109,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Capio",
+		"stocktag_str": "CAPIO.ST",
+		"stocktag_num": 27400181,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 110,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Catena",
+		"stocktag_str": "CATE.ST",
+		"stocktag_num": 571263,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 111,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Cavotec",
+		"stocktag_str": "CCC.ST",
+		"stocktag_num": 5482154,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 112,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Clas Ohlson B",
+		"stocktag_str": "CLAS-B.ST",
+		"stocktag_num": 206677,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 113,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Collector",
+		"stocktag_str": "COLL.ST",
+		"stocktag_num": 27064472,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 114,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Concentric",
+		"stocktag_str": "COIC.ST",
+		"stocktag_num": 3748674,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 115,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Coor Service MGT",
+		"stocktag_str": "COOR.ST",
+		"stocktag_num": 27160815,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 116,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Corem Property Group",
+		"stocktag_str": "CORE.ST",
+		"stocktag_num": 151369,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 117,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Corem Property Group Pref",
+		"stocktag_str": "CORE-PREF.ST",
+		"stocktag_num": 2261394,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 118,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Creades A",
+		"stocktag_str": "CRED-A.ST",
+		"stocktag_num": 7568365,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 119,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "D. Carnegie & Co B",
+		"stocktag_str": "DCAR-B.ST",
+		"stocktag_num": 19934001,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 120,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Dios Fastigheter",
+		"stocktag_str": "DIOS.ST",
+		"stocktag_num": 69186,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 121,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Duni",
+		"stocktag_str": "DUNI.ST",
+		"stocktag_num": 684182,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 122,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Dustin Group",
+		"stocktag_str": "DUST.ST",
+		"stocktag_num": 25041449,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 123,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "East Capital Explorer",
+		"stocktag_str": "ECEX.ST",
+		"stocktag_num": 675500,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 124,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Eltel",
+		"stocktag_str": "ELTEL.ST",
+		"stocktag_num": 24937847,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 125,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Eniro",
+		"stocktag_str": "ENRO.ST",
+		"stocktag_num": 234453,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 126,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Eniro pref",
+		"stocktag_str": "ENRO-PREF.ST",
+		"stocktag_num": 10771807,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 127,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Fagerhult",
+		"stocktag_str": "FAG.ST",
+		"stocktag_num": 69083,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 128,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Fast Partner",
+		"stocktag_str": "FPAR.ST",
+		"stocktag_num": 69133,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 129,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Fast Partner Pref",
+		"stocktag_str": "FPAR-PREF.ST",
+		"stocktag_num": 15586242,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 130,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Fenix Outdoor Int.",
+		"stocktag_str": "FOI-B.ST",
+		"stocktag_num": 21293796,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 131,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Fingerprint Cards B",
+		"stocktag_str": "FING-B.ST",
+		"stocktag_num": 205786,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 132,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Graenges",
+		"stocktag_str": "GRNG.ST",
+		"stocktag_num": 22957004,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 133,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Gunnebo",
+		"stocktag_str": "GUNN.ST",
+		"stocktag_num": 69136,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 134,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Haldex",
+		"stocktag_str": "HLDX.ST",
+		"stocktag_num": 69317,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 135,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "HEBA B",
+		"stocktag_str": "HEBA-B.ST",
+		"stocktag_num": 69119,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 136,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Hemfosa Fastigheter",
+		"stocktag_str": "HEMF.ST",
+		"stocktag_num": 19635831,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 137,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Hemfosa Fastigheter Pref",
+		"stocktag_str": "HEMF-PREF.ST",
+		"stocktag_num": 23998703,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 138,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "HiQ International",
+		"stocktag_str": "HIQ.ST",
+		"stocktag_num": 68976,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 139,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "HMS Networks",
+		"stocktag_str": "HMS.ST",
+		"stocktag_num": 667147,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 140,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Hoist Finance",
+		"stocktag_str": "HOFI.ST",
+		"stocktag_num": 25799360,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 141,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Industrial & Financial Sys. B",
+		"stocktag_str": "IFS-B.ST",
+		"stocktag_num": 69058,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 142,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Inwido",
+		"stocktag_str": "INWI.ST",
+		"stocktag_num": 22753281,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 143,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "ITAB Shop Concept B",
+		"stocktag_str": "ITAB-B.ST",
+		"stocktag_num": 69167,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 144,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "KappAhl",
+		"stocktag_str": "KAHL.ST",
+		"stocktag_num": 554634,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 145,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Klovern A",
+		"stocktag_str": "KLOV-A.ST",
+		"stocktag_num": 337578,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 146,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Klovern B",
+		"stocktag_str": "KLOV-B.ST",
+		"stocktag_num": 338455,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 147,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Klovern PREF",
+		"stocktag_str": "KLOV-PREF.ST",
+		"stocktag_num": 7061996,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 148,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Kungsleden",
+		"stocktag_str": "KLED.ST",
+		"stocktag_num": 68974,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 149,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Lagercrantz Group B",
+		"stocktag_str": "LAGR-B.ST",
+		"stocktag_num": 292920,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 150,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Lindab International",
+		"stocktag_str": "LIAB.ST",
+		"stocktag_num": 601182,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 151,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Lucara Diamond Corp",
+		"stocktag_str": "LUC.ST",
+		"stocktag_num": 847252,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 152,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Lundin Gold",
+		"stocktag_str": "LUG.ST",
+		"stocktag_num": 24172123,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 153,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Medivir B",
+		"stocktag_str": "MVIR-B.ST",
+		"stocktag_num": 70078,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 154,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Mekonomen",
+		"stocktag_str": "MEKO.ST",
+		"stocktag_num": 637525,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 155,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Munksjo Oyj",
+		"stocktag_str": "MUNK1S.ST",
+		"stocktag_num": 23913170,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 156,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Mycronic",
+		"stocktag_str": "MYCR.ST",
+		"stocktag_num": 20820044,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 157,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "Nederman Holding",
+		"stocktag_str": "NMAN.ST",
+		"stocktag_num": 627574,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 158,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "NetEnt B",
+		"stocktag_str": "NET-B.ST",
+		"stocktag_num": 1871693,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 159,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "NEWA-B.ST",
+		"stocktag_str": "New Wave B",
+		"stocktag_num": 69036,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 160,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "NGQ.ST",
+		"stocktag_str": "NGEx Resources",
+		"stocktag_num": 21182777,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 161,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "NOBINA.ST",
+		"stocktag_str": "Nobina",
+		"stocktag_num": 27208887,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 162,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "NOLA-B.ST",
+		"stocktag_str": "Nolato B",
+		"stocktag_num": 69224,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 163,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "NDX.ST",
+		"stocktag_str": "Nordax Group",
+		"stocktag_num": 27183620,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 164,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "NN-B.ST",
+		"stocktag_str": "Nordnet B",
+		"stocktag_num": 296374,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 165,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "NP3.ST",
+		"stocktag_str": "NP3 Fastigheter",
+		"stocktag_num": 23854041,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 166,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "OASM.ST",
+		"stocktag_str": "Oasmia Pharmaceutical",
+		"stocktag_num": 2383442,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 167,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "OEM-B.ST",
+		"stocktag_str": "OEM International B",
+		"stocktag_num": 69233,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 168,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "OPUS.ST",
+		"stocktag_str": "Opus Group",
+		"stocktag_num": 570052,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 169,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "ORX.ST",
+		"stocktag_str": "Orexo",
+		"stocktag_num": 513986,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 170,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "PLAZ-B.ST",
+		"stocktag_str": "Platzer Fastigheter",
+		"stocktag_num": 18003985,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 171,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "PROE-B.ST",
+		"stocktag_str": "Proffice B",
+		"stocktag_num": 206346,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 172,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "QLRO.ST",
+		"stocktag_str": "Qliro Group",
+		"stocktag_num": 24447987,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 173,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "RECI-B.ST",
+		"stocktag_str": "Recipharm",
+		"stocktag_num": 19846466,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 174,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "REZT.ST",
+		"stocktag_str": "Rezidor Hotel Group",
+		"stocktag_num": 600482,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 175,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SAGA-A.ST",
+		"stocktag_str": "Sagax A",
+		"stocktag_num": 10091008,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 176,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SAGA-B.ST",
+		"stocktag_str": "Sagax B",
+		"stocktag_num": 14640841,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 177,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SAGA-PREF.ST",
+		"stocktag_str": "Sagax Pref",
+		"stocktag_num": 550761,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 178,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SAS.ST",
+		"stocktag_str": "SAS",
+		"stocktag_num": 69271,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 179,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SAS-PREF.ST",
+		"stocktag_str": "SAS Pref",
+		"stocktag_num": 19423547,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 180,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SCST.ST",
+		"stocktag_str": "Scandi Standard",
+		"stocktag_num": 21309295,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 181,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SECT-B.ST",
+		"stocktag_str": "SECTRA B",
+		"stocktag_num": 203610,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 182,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SMF.ST",
+		"stocktag_str": "Semafo",
+		"stocktag_num": 5491151,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 183,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SKIS-B.ST",
+		"stocktag_str": "SkiStar B",
+		"stocktag_num": 298619,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 184,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SWEC-A.ST",
+		"stocktag_str": "SWECO A",
+		"stocktag_num": 68997,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 185,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SWEC-B.ST",
+		"stocktag_str": "SWECO B",
+		"stocktag_num": 68996,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 186,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SWOL-B.ST",
+		"stocktag_str": "Swedol B",
+		"stocktag_num": 576278,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 187,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "SYSR.ST",
+		"stocktag_str": "Systemair",
+		"stocktag_num": 664926,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 188,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "TETY.ST",
+		"stocktag_str": "Tethys Oil",
+		"stocktag_num": 448961,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 189,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "THULE.ST",
+		"stocktag_str": "Thule Group",
+		"stocktag_num": 23731618,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 190,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "TWW.ST",
+		"stocktag_str": "Transcom WorldWide",
+		"stocktag_num": 515539,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 191,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "TRMO.ST",
+		"stocktag_str": "Transmode",
+		"stocktag_num": 3646033,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 192,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "TRI.ST",
+		"stocktag_str": "Tribona",
+		"stocktag_num": 15245116,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 193,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "TROAX.ST",
+		"stocktag_str": "Troax Group",
+		"stocktag_num": 25843829,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 194,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "UNIB-SDB.ST",
+		"stocktag_str": "Unibet Group",
+		"stocktag_num": 494061,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 195,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "VBG-B.ST",
+		"stocktag_str": "VBG GROUP B",
+		"stocktag_num": 69179,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 196,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "VICP-A.ST",
+		"stocktag_str": "Victoria Park A",
+		"stocktag_num": 20457109,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 197,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "VICP-B.ST",
+		"stocktag_str": "Victoria Park B",
+		"stocktag_num": 20536432,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 198,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "VICP-Pref.ST",
+		"stocktag_str": "Victoria Park Pref",
+		"stocktag_num": 16130800,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 199,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "VITR.ST",
+		"stocktag_str": "Vitrolife",
+		"stocktag_num": 283902,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 200,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "WIHL.ST",
+		"stocktag_str": "Wihlborgs Fastigheter",
+		"stocktag_num": 335811,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 201,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "AF-B.ST",
+		"stocktag_str": "AF B",
+		"stocktag_num": 1154486,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 202,
+	"fields": {
+		"stocklist": 2,
+		"stock_title": "ORES.ST",
+		"stocktag_str": "Oresund",
+		"stocktag_num": 69273,
+		"in_portfolio": false
+	}
+}]

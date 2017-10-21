@@ -1,0 +1,931 @@
+[{
+	"model": "stocklist.stock",
+	"pk": 1,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "AAK",
+		"stocktag_str": "AAK.ST",
+		"stocktag_num": 510834,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 2,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "ABB Ltd",
+		"stocktag_str": "ABB.ST",
+		"stocktag_num": 77151,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 3,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Africa Oil",
+		"stocktag_str": "AOI.ST",
+		"stocktag_num": 2617823,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 4,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Alfa Laval",
+		"stocktag_str": "ALFA.ST",
+		"stocktag_num": 69090,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 5,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Assa Abloy",
+		"stocktag_str": "ASSA-B.ST",
+		"stocktag_num": 69111,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 6,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "AstraZeneca",
+		"stocktag_str": "AZN.ST",
+		"stocktag_num": 68978,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 7,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Altas Copco A",
+		"stocktag_str": "ATCO-A.ST",
+		"stocktag_num": 69332,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 8,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Altas Copco B",
+		"stocktag_str": "ATCO-B.ST",
+		"stocktag_num": 69331,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 9,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Atrium Ljungberg B",
+		"stocktag_str": "LJGR-B.ST",
+		"stocktag_num": 69114,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 10,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Autoliv SDB",
+		"stocktag_str": "ALIV-SDB.ST",
+		"stocktag_num": 69084,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 11,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Axfood",
+		"stocktag_str": "AXFO.ST",
+		"stocktag_num": 180001,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 12,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Axis",
+		"stocktag_str": "AXIS.ST",
+		"stocktag_num": 187255,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 13,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Betsson B",
+		"stocktag_str": "BETS-B.ST",
+		"stocktag_num": 579815,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 14,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Billerud Korsnaes",
+		"stocktag_str": "BILL.ST",
+		"stocktag_num": 304054,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 15,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Boliden",
+		"stocktag_str": "BOL.ST",
+		"stocktag_num": 68969,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 16,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Castellum",
+		"stocktag_str": "CAST.ST",
+		"stocktag_num": 69078,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 17,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Com Hem Holding",
+		"stocktag_str": "COMH.ST",
+		"stocktag_num": 21140780,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 18,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Electrolux A",
+		"stocktag_str": "ELUX-A.ST",
+		"stocktag_num": 69325,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 19,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Electrolux B",
+		"stocktag_str": "ELUX-B.ST",
+		"stocktag_num": 69324,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 20,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Elekta B",
+		"stocktag_str": "EKTA-B.ST",
+		"stocktag_num": 69131,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 21,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "EnQuest PLC",
+		"stocktag_str": "ENQ.ST",
+		"stocktag_num": 2273674,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 22,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Ericsson A",
+		"stocktag_str": "ERIC-A.ST",
+		"stocktag_num": 293523,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 23,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Ericsson B",
+		"stocktag_str": "ERIC-B.ST",
+		"stocktag_num": 293520,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 24,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Fabege",
+		"stocktag_str": "FABG.ST",
+		"stocktag_num": 496000,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 25,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Fast. Balder B",
+		"stocktag_str": "BALD-B.ST",
+		"stocktag_num": 508524,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 26,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Getinge B",
+		"stocktag_str": "GETI-B.ST",
+		"stocktag_num": 328395,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 27,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Handelsbanken A",
+		"stocktag_str": "SHB-A.ST",
+		"stocktag_num": 69251,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 28,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Handelsbanken B",
+		"stocktag_str": "SHB-B.ST",
+		"stocktag_num": 69247,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 29,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Hennes & Mauritz B",
+		"stocktag_str": "HM-B.ST",
+		"stocktag_num": 69316,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 30,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Hexagon B",
+		"stocktag_str": "HEXA-B.ST",
+		"stocktag_num": 69288,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 31,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Hexpol B",
+		"stocktag_str": "HPOL-B.ST",
+		"stocktag_num": 1196446,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 32,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Holmen A",
+		"stocktag_str": "HOLM-A.ST",
+		"stocktag_num": 207662,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 33,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Holmen B",
+		"stocktag_str": "HOLM-B.ST",
+		"stocktag_num": 206417,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 34,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Huvudstaden A",
+		"stocktag_str": "HUFV-A.ST",
+		"stocktag_num": 69315,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 35,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Huvudstaden C",
+		"stocktag_str": "HUFV-C.ST",
+		"stocktag_num": 69314,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 36,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Husqvarna A",
+		"stocktag_str": "HUSQ-A.ST",
+		"stocktag_num": 576531,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 37,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Husqvarna B",
+		"stocktag_str": "HUSQ-B.ST",
+		"stocktag_num": 576532,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 38,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "ICA Gruppen",
+		"stocktag_str": "ICA.ST",
+		"stocktag_num": 15307864,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 39,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Industrivaerlden A",
+		"stocktag_str": "INDU-A.ST",
+		"stocktag_num": 69282,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 40,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Industrivaerlden C",
+		"stocktag_str": "INDU-C.ST",
+		"stocktag_num": 69281,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 41,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Indutrade",
+		"stocktag_str": "INDT.ST",
+		"stocktag_num": 511324,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 42,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Intrum Justitia",
+		"stocktag_str": "IJ.ST",
+		"stocktag_num": 335770,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 43,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Investor A",
+		"stocktag_str": "INVE-A.ST",
+		"stocktag_num": 69278,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 44,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Investor B",
+		"stocktag_str": "INVE-B.ST",
+		"stocktag_num": 69277,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 45,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "JM",
+		"stocktag_str": "JM.ST",
+		"stocktag_num": 277512,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 46,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Kinnevik A",
+		"stocktag_str": "KINV-A.ST",
+		"stocktag_num": 69318,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 47,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Kinnevik B",
+		"stocktag_str": "KINV-B.ST",
+		"stocktag_num": 69319,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 48,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Latour B",
+		"stocktag_str": "LATO-B.ST",
+		"stocktag_num": 69283,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 49,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Lifco B",
+		"stocktag_str": "LIFCO-B.ST",
+		"stocktag_num": 23656485,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 50,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Loomis B",
+		"stocktag_str": "LOOM-B.ST",
+		"stocktag_num": 1829538,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 51,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Lundbergforetagen B",
+		"stocktag_str": "LUND-B.ST",
+		"stocktag_num": 69240,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 52,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Lundin Mining Corp. SDB",
+		"stocktag_str": "LUMI-SDB.ST",
+		"stocktag_num": 481350,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 53,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Lundin Petroleum",
+		"stocktag_str": "LUPE.ST",
+		"stocktag_num": 293288,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 54,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Meda A",
+		"stocktag_str": "MEDA-A.ST",
+		"stocktag_num": 69099,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 55,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Melker Schorling",
+		"stocktag_str": "MELK.ST",
+		"stocktag_num": 585865,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 56,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Millicom Int. Cellular SDB",
+		"stocktag_str": "MIC-SDB.ST",
+		"stocktag_num": 494060,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 57,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Modern Times Group A",
+		"stocktag_str": "MTG-A.ST",
+		"stocktag_num": 206484,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 58,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Modern Times Group B",
+		"stocktag_str": "MTG-B.ST",
+		"stocktag_num": 203514,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 59,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "NCC A",
+		"stocktag_str": "NCC-A.ST",
+		"stocktag_num": 69267,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 60,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "NCC B",
+		"stocktag_str": "NCC-B.ST",
+		"stocktag_num": 69266,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 61,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "NIBE Industrier B",
+		"stocktag_str": "NIBE-B.ST",
+		"stocktag_num": 69071,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 62,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Nobia",
+		"stocktag_str": "NOBI.ST",
+		"stocktag_num": 336452,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 63,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Nordea Bank",
+		"stocktag_str": "NDA-SEK.ST",
+		"stocktag_num": 506886,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 64,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Oriflame Holding",
+		"stocktag_str": "ORI.ST",
+		"stocktag_num": 494059,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 65,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Pandox B",
+		"stocktag_str": "PNDX-B.ST",
+		"stocktag_num": 27208886,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 66,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Peab B",
+		"stocktag_str": "PEAB-B.ST",
+		"stocktag_num": 69194,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 67,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Rato A",
+		"stocktag_str": "RATO-A.ST",
+		"stocktag_num": 69275,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 68,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Ratos pref",
+		"stocktag_str": "RATO-PREF.ST",
+		"stocktag_num": 15735617,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 69,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Saab B",
+		"stocktag_str": "SAAB-B.ST",
+		"stocktag_num": 69018,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 70,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Sandvik",
+		"stocktag_str": "SAND.ST",
+		"stocktag_num": 175284,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 71,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "SCA A",
+		"stocktag_str": "SCA-A.ST",
+		"stocktag_num": 69330,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 72,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "SCA B",
+		"stocktag_str": "SCA-B.ST",
+		"stocktag_num": 69329,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 73,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "SEB A",
+		"stocktag_str": "SEB-A.ST",
+		"stocktag_num": 69253,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 74,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "SEB C",
+		"stocktag_str": "SEB-C.ST",
+		"stocktag_num": 69252,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 75,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Securitas B",
+		"stocktag_str": "SECU-B.ST",
+		"stocktag_num": 69144,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 76,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Skanska B",
+		"stocktag_str": "SKA-B.ST",
+		"stocktag_num": 69326,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 77,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "SKF A",
+		"stocktag_str": "SKF-A.ST",
+		"stocktag_num": 69305,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 78,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "SKF B",
+		"stocktag_str": "SKF-B.ST",
+		"stocktag_num": 69304,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 79,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "SSAB A",
+		"stocktag_str": "SSAB-A.ST",
+		"stocktag_num": 69163,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 80,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "SSAB B",
+		"stocktag_str": "SSAB-B.ST",
+		"stocktag_num": 69162,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 81,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Stora Enso A",
+		"stocktag_str": "STE-A.ST",
+		"stocktag_num": 68992,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 82,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Stora Enso R",
+		"stocktag_str": "STE-R.ST",
+		"stocktag_num": 68991,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 83,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Swedbank A",
+		"stocktag_str": "SWED-A.ST",
+		"stocktag_num": 586553,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 84,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Swedish Match",
+		"stocktag_str": "SWMA.ST",
+		"stocktag_num": 70073,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 85,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Swedish Orphan Biovitrum",
+		"stocktag_str": "SOBI.ST",
+		"stocktag_num": 2383439,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 86,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Tele2 A",
+		"stocktag_str": "TEL2-A.ST",
+		"stocktag_num": 254383,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 87,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Tele2 B",
+		"stocktag_str": "TEL2-B.ST",
+		"stocktag_num": 254384,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 88,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "TeliaSonera",
+		"stocktag_str": "TLSN.ST",
+		"stocktag_num": 358575,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 89,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Tieto Oyj",
+		"stocktag_str": "TIEN.ST",
+		"stocktag_num": 78816,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 90,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Trelleborg B",
+		"stocktag_str": "TREL-B.ST",
+		"stocktag_num": 69303,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 91,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Volvo A",
+		"stocktag_str": "VOLV-A.ST",
+		"stocktag_num": 69302,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 92,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Volvo B",
+		"stocktag_str": "VOLV-B.ST",
+		"stocktag_num": 69301,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 93,
+	"fields": {
+		"stocklist": 1,
+		"stock_title": "Wallenstam B",
+		"stocktag_str": "WALL-B.ST",
+		"stocktag_num": 69218,
+		"in_portfolio": false
+	}
+}]

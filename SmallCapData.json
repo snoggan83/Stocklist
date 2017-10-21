@@ -1,0 +1,1081 @@
+[{
+	"model": "stocklist.stock",
+	"pk": 203,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ACAN-B.ST",
+		"stocktag_str": "Acando AB B",
+		"stocktag_num": 574378,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 204,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ANOD-B.ST",
+		"stocktag_str": "Addnode Group AB",
+		"stocktag_num": 440578,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 205,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ALNX.ST",
+		"stocktag_str": "Allenex AB",
+		"stocktag_num": 3776355,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 206,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ATEL-A.ST",
+		"stocktag_str": "AllTele Allmaenna Svenska Telef",
+		"stocktag_num": 14706520,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 207,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ANOT.ST",
+		"stocktag_str": "Anoto Group AB",
+		"stocktag_num": 334827,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 208,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ARP.ST",
+		"stocktag_str": "Arctic Paper S.A",
+		"stocktag_num": 13226398,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 209,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ARISE.ST",
+		"stocktag_str": "Arise AB",
+		"stocktag_num": 15504467,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 210,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "AVEG-B.ST",
+		"stocktag_str": "Avega Group AB B",
+		"stocktag_num": 669857,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 211,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BEGR.ST",
+		"stocktag_str": "BE Group AB",
+		"stocktag_num": 599660,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 212,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BELE.ST",
+		"stocktag_str": "Beijer Electronics AB",
+		"stocktag_num": 182384,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 213,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BRG-B.ST",
+		"stocktag_str": "Bergs Timber AB B",
+		"stocktag_num": 69217,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 214,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BESQ.ST",
+		"stocktag_str": "Besqab AB",
+		"stocktag_num": 21048516,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 215,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BINV.ST",
+		"stocktag_str": "BioInvent International AB",
+		"stocktag_num": 279827,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 216,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BIOT.ST",
+		"stocktag_str": "Biotage AB",
+		"stocktag_num": 621544,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 217,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BORG.ST",
+		"stocktag_str": "Bjorn Borg AB",
+		"stocktag_num": 626265,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 218,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BEF-SDB.ST",
+		"stocktag_str": "Black Earth Farming Ltd SDB",
+		"stocktag_num": 2068699,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 219,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BONG.ST",
+		"stocktag_str": "Bong AB",
+		"stocktag_num": 69175,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 220,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BOUL.ST",
+		"stocktag_str": "Boule Diagnostics AB",
+		"stocktag_num": 3797717,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 221,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BTS-B.ST",
+		"stocktag_str": "BTS Group AB B",
+		"stocktag_num": 279096,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 222,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "BULTEN.ST",
+		"stocktag_str": "Bulten AB",
+		"stocktag_num": 22310359,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 223,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "CEVI.ST",
+		"stocktag_str": "CellaVision AB",
+		"stocktag_num": 629473,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 224,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "CCOR-B.ST",
+		"stocktag_str": "Concordia Maritime AB B",
+		"stocktag_num": 69227,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 225,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "CONS-B.ST",
+		"stocktag_str": "Consilium AB B",
+		"stocktag_num": 69126,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 226,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "CRAD-B.ST",
+		"stocktag_str": "C-Rad AB B",
+		"stocktag_num": 636235,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 227,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "CTT.ST",
+		"stocktag_str": "CTT Systems AB",
+		"stocktag_num": 69042,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 228,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "CYBE.ST",
+		"stocktag_str": "Cybercom Group AB",
+		"stocktag_num": 203335,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 229,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "DEDI.ST",
+		"stocktag_str": "Dedicare AB B",
+		"stocktag_num": 3527074,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 230,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "DGC.ST",
+		"stocktag_str": "DGC One AB",
+		"stocktag_num": 1248669,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 231,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "DORO.ST",
+		"stocktag_str": "Doro AB",
+		"stocktag_num": 69139,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 232,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "DURC-B.ST",
+		"stocktag_str": "Duroc AB B",
+		"stocktag_num": 206780,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 233,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ELAN-B.ST",
+		"stocktag_str": "Elanders AB B",
+		"stocktag_num": 69166,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 234,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ELEC.ST",
+		"stocktag_str": "Electra Gruppen AB",
+		"stocktag_num": 571689,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 235,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ELOS-B.ST",
+		"stocktag_str": "Elos AB B",
+		"stocktag_num": 1161370,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 236,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ENDO.ST",
+		"stocktag_str": "Endomines AB",
+		"stocktag_num": 632042,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 237,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ENEA.ST",
+		"stocktag_str": "Enea AB",
+		"stocktag_num": 69151,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 238,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "EOLU-B.ST",
+		"stocktag_str": "Eolus Vind AB B",
+		"stocktag_num": 2060122,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 239,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "EPIS-B.ST",
+		"stocktag_str": "Episurf Medical AB B",
+		"stocktag_num": 2726339,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 240,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ETX.ST",
+		"stocktag_str": "Etrion Corporation",
+		"stocktag_num": 2726340,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 241,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "EWRK.ST",
+		"stocktag_str": "eWork Scandinavia AB",
+		"stocktag_num": 1170350,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 242,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "FEEL.ST",
+		"stocktag_str": "Feelgood Svenska AB",
+		"stocktag_num": 181786,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 243,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "FPIP.ST",
+		"stocktag_str": "FormPipe Software AB",
+		"stocktag_num": 457830,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 244,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "G5EN.ST",
+		"stocktag_str": "G5 Entertainment AB",
+		"stocktag_num": 1799949,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 245,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "GHP.ST",
+		"stocktag_str": "Global Health Partner AB",
+		"stocktag_num": 1747277,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 246,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "HAV-B.ST",
+		"stocktag_str": "Havsfrun Investment AB B",
+		"stocktag_num": 69169,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 247,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "IAR-B.ST",
+		"stocktag_str": "I.A.R Systems Group AB B",
+		"stocktag_num": 3638120,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 248,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "IS.ST",
+		"stocktag_str": "Image Systems AB",
+		"stocktag_num": 3748672,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 249,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ICTA-B.ST",
+		"stocktag_str": "Intellecta AB B",
+		"stocktag_num": 236272,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 250,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "IVSO.ST",
+		"stocktag_str": "Invisio Communications AB",
+		"stocktag_num": 1243048,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 251,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "KABE-B.ST",
+		"stocktag_str": "Kabe AB B",
+		"stocktag_num": 69228,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 252,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "KARO.ST",
+		"stocktag_str": "Karo Bio AB",
+		"stocktag_num": 75160,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 253,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "KDEV.ST",
+		"stocktag_str": "Karolinska Development AB",
+		"stocktag_num": 3457653,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 254,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "KNOW.ST",
+		"stocktag_str": "KnowIT AB",
+		"stocktag_num": 69043,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 255,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "LAMM-B.ST",
+		"stocktag_str": "Lammhults Design Group AB",
+		"stocktag_num": 1255826,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 256,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MEAB-B.ST",
+		"stocktag_str": "Malmbergs Elektriska AB B",
+		"stocktag_num": 206781,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 257,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MSAB-B.ST",
+		"stocktag_str": "Micro Systemation AB B",
+		"stocktag_num": 6769024,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 258,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MSON-A.ST",
+		"stocktag_str": "Midsona AB ser A",
+		"stocktag_num": 609580,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 259,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MIDW-A.ST",
+		"stocktag_str": "Midway Holding AB A",
+		"stocktag_num": 69154,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 260,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MIDW-B.ST",
+		"stocktag_str": "Midway Holding AB B",
+		"stocktag_num": 609581,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 261,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MOB.ST",
+		"stocktag_str": "Moberg Pharma AB",
+		"stocktag_num": 620126,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 262,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MQ.ST",
+		"stocktag_str": "MQ Holding AB",
+		"stocktag_num": 2374348,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 263,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MSC-B.ST",
+		"stocktag_str": "MSC Konsult AB B",
+		"stocktag_num": 69019,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 264,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "MULQ.ST",
+		"stocktag_str": "MultiQ International AB",
+		"stocktag_num": 116160,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 265,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NAXS.ST",
+		"stocktag_str": "Naxs Nordic Access Buyout Fund",
+		"stocktag_num": 627311,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 266,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NMAN.ST",
+		"stocktag_str": "Nederman Holding AB",
+		"stocktag_num": 627574,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 267,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NETI-B.ST",
+		"stocktag_str": "Net Insight AB B",
+		"stocktag_num": 204876,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 268,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NVP.ST",
+		"stocktag_str": "NeuroVive Pharmaceutical AB",
+		"stocktag_num": 1747278,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 269,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NOMI.ST",
+		"stocktag_str": "Nordic Mines AB",
+		"stocktag_num": 604537,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 270,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NSP-B.ST",
+		"stocktag_str": "Nordic Service Partners Holdin",
+		"stocktag_num": 571515,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 271,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NOTE.ST",
+		"stocktag_str": "Note AB",
+		"stocktag_num": 460953,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 272,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NOVE.ST",
+		"stocktag_str": "Novestra AB",
+		"stocktag_num": 170743,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 273,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "NTEK-B.ST",
+		"stocktag_str": "Novotek AB B",
+		"stocktag_num": 203377,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 274,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ODD.ST",
+		"stocktag_str": "Odd Molly International AB",
+		"stocktag_num": 631946,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 275,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "OPCO.ST",
+		"stocktag_str": "Opcon AB",
+		"stocktag_num": 68987,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 276,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ORTI-A.ST",
+		"stocktag_str": "Ortivus AB A",
+		"stocktag_num": 69098,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 277,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "ORTI-B.ST",
+		"stocktag_str": "Ortivus AB B",
+		"stocktag_num": 69097,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 278,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "OP.ST",
+		"stocktag_str": "Oscar Properties Holding AB",
+		"stocktag_num": 19142632,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 279,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "OP-PREF.ST",
+		"stocktag_str": "Oscar Properties Holding AB PR",
+		"stocktag_num": 15586241,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 280,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "PAR.ST",
+		"stocktag_str": "PA Resources AB",
+		"stocktag_num": 577798,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 281,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "POOL-B.ST",
+		"stocktag_str": "Poolia AB B",
+		"stocktag_num": 206673,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 282,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "PREC.ST",
+		"stocktag_str": "Precise Biometrics AB",
+		"stocktag_num": 587465,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 283,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "PREV-B.ST",
+		"stocktag_str": "Prevas AB B",
+		"stocktag_num": 69013,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 284,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "PRIC-B.ST",
+		"stocktag_str": "Pricer AB B",
+		"stocktag_num": 69106,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 285,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "PACT.ST",
+		"stocktag_str": "Proact IT Group AB",
+		"stocktag_num": 78048,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 286,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "PROB.ST",
+		"stocktag_str": "Probi AB",
+		"stocktag_num": 480759,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 287,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "PROF-B.ST",
+		"stocktag_str": "ProfilGruppen AB B",
+		"stocktag_num": 69066,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 288,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "RAY-B.ST",
+		"stocktag_str": "RaySearch Laboratories AB",
+		"stocktag_num": 395359,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 289,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "REJL-B.ST",
+		"stocktag_str": "Rejlers AB",
+		"stocktag_num": 604648,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 290,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "RNBS.ST",
+		"stocktag_str": "RNB Retail AND Brands AB",
+		"stocktag_num": 283901,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 291,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "RROS.ST",
+		"stocktag_str": "Rottneros AB",
+		"stocktag_num": 69178,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 292,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SEAM.ST",
+		"stocktag_str": "Seamless Distribution AB",
+		"stocktag_num": 10319041,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 293,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SEMC.ST",
+		"stocktag_str": "Semcon AB",
+		"stocktag_num": 69077,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 294,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SENS.ST",
+		"stocktag_str": "Sensys Traffic AB",
+		"stocktag_num": 250197,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 295,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SHEL-B.ST",
+		"stocktag_str": "Shelton Petroleum AB B",
+		"stocktag_num": 12777646,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 296,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SINT.ST",
+		"stocktag_str": "SinterCast AB",
+		"stocktag_num": 335915,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 297,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SOF-B.ST",
+		"stocktag_str": "Softronic AB B",
+		"stocktag_num": 204095,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 298,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SPOR.ST",
+		"stocktag_str": "Sportamore AB",
+		"stocktag_num": 12470165,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 299,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "STWK.ST",
+		"stocktag_str": "Stockwik Forvaltning AB",
+		"stocktag_num": 18092997,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 300,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SVIK.ST",
+		"stocktag_str": "Studsvik AB",
+		"stocktag_num": 273853,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 301,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SVED-B.ST",
+		"stocktag_str": "Svedbergs i Dalstorp AB B",
+		"stocktag_num": 69052,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 302,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SVOL-A.ST",
+		"stocktag_str": "Svolder AB A",
+		"stocktag_num": 69209,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 303,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "SVOL-B.ST",
+		"stocktag_str": "Svolder AB B",
+		"stocktag_num": 69208,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 304,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "TRAC-B.ST",
+		"stocktag_str": "Traction AB B",
+		"stocktag_num": 206766,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 305,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "TRAD.ST",
+		"stocktag_str": "TradeDoubler AB",
+		"stocktag_num": 513737,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 306,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "UFLX-B.ST",
+		"stocktag_str": "Uniflex AB B",
+		"stocktag_num": 480001,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 307,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "VRG-B.ST",
+		"stocktag_str": "Venue Retail Group AB",
+		"stocktag_num": 1932431,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 308,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "VSSAB-B.ST",
+		"stocktag_str": "VIKING SUPPLY SHIPS",
+		"stocktag_num": 26295673,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 309,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "VIT-B.ST",
+		"stocktag_str": "Vitec Software Group AB B",
+		"stocktag_num": 208182,
+		"in_portfolio": false
+	}
+}, {
+	"model": "stocklist.stock",
+	"pk": 310,
+	"fields": {
+		"stocklist": 3,
+		"stock_title": "XANO-B.ST",
+		"stocktag_str": "Xano Industri AB B",
+		"stocktag_num": 498101,
+		"in_portfolio": false
+	}
+}]
