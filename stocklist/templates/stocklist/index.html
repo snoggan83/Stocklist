@@ -5,7 +5,7 @@
         <h3>All stocklists are listed here:</h3>
         <ul>
             {% for stocklist in all_stocklists %}
-            <li><a href="{% url 'stocklist:detail' stocklist.id %}">{{ stocklist.list_title }}</a></li>
+            <li><a href="{% url 'stocklist:detail' stocklist.list_title %}">{{ stocklist.list_title }}</a></li>
             {% endfor %}
         </ul>
     {% else %}

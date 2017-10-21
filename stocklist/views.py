@@ -23,9 +23,13 @@ def index(request):
     context = {"all_stocklists": all_stocklists}
     return render(request, "stocklist/index.html", context)
 
-def detail(request, stocklist_id):
-    stocklist = get_object_or_404(Stocklist, pk=stocklist_id)
+def detail(request, stocklist_title):
+    stocklist = get_object_or_404(Stocklist, list_title=stocklist_title)
     return render(request, "stocklist/detail.html", {"stocklist": stocklist})
+
+def detail_stock(request, stocklist_title, stocknum):
+    stock = get_object_or_404(Stock, stocktag_num=stocknum)
+    return render(request, "stocklist/detail_stock.html", {"stock": stock})
 
 def portfolio(request, stocklist_id):
     stocklist = get_object_or_404(Stocklist, pk=stocklist_id)
